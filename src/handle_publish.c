@@ -57,7 +57,7 @@ int handle__publish(struct mosquitto *context)
 	if(context->state != mosq_cs_active){
 		return MOSQ_ERR_PROTOCOL;
 	}
-    // sadfsadfa
+
 	msg = mosquitto__calloc(1, sizeof(struct mosquitto_msg_store));
 	if(msg == NULL){
 		return MOSQ_ERR_NOMEM;
