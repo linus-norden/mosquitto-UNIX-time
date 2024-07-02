@@ -12,6 +12,9 @@ mosquitto-UNIX-time is intended to
 - convert published information into a fixed json format
 - resulting structure processed as message will contain 'time' for the timestamp and 'data' for the original content
 
+This adaptation was created as part of a bachelor's thesis written in German.
+The modified programme section is therefore partly commented in German. 
+
 ## Links
 
 See the following links for more information on MQTT:
