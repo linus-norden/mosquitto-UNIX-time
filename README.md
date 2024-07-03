@@ -15,6 +15,21 @@ mosquitto-UNIX-time is intended to
 This adaptation was created as part of a bachelor's thesis written in German.
 The modified programme section is therefore partly commented in German. 
 
+## All Repositories needed to build ATS:
+https://github.com/linus-norden/mosquitto-UNIX-time
+
+https://github.com/linus-norden/ATS-ESP32-BLEScan
+
+https://github.com/linus-norden/ATS-ESP32-WiFiMesh
+
+https://github.com/linus-norden/ATS-WebApp-Frontend
+
+https://github.com/linus-norden/ATS-WebApp-Backend
+
+https://github.com/linus-norden/ATS-Python-Microservice
+
+https://github.com/linus-norden/ATS-SQL-DB
+
 ## Links
 
 See the following links for more information on MQTT:
